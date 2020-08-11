@@ -1,0 +1,89 @@
+body {
+  background-color: #eeca6e;
+  padding: 100px;
+  padding-left: 200px;
+}
+
+.main_box {
+  width: 800px;
+  background-color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.border_box {
+  border-bottom: 2px solid grey;
+  padding-bottom: 10px;
+}
+
+.border_right {
+  border-right: 2px solid grey;
+  width: 350px;
+}
+
+.login_button {
+  background-color: #75a752;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.facebook_button {
+  background-color: #3f5892;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+}
+
+.facebook_icon {
+  padding-right: 15px;
+  font-size: 20px
+}
+
+.google_button {
+  background-color: #cd5542;
+  padding-right: 25px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+}
+
+.google_icon {
+  padding-right: 15px;
+  font-size: 20px
+}
+
+.text_muted {
+  color: grey;
+  font-weight: 100;
+  font-size: 12px
+}
+
+.a_link {
+  text-decoration: none;
+}
